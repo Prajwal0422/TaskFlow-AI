@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+pydantic
+google-generativeai
+scikit-learn
+nltk
+sentence-transformers
+apscheduler
+pywebpush
+numpy
+requests
