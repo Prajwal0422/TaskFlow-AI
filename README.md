@@ -1,3 +1,74 @@
+<p align="center">
+  
+![Status](https://img.shields.io/badge/Project%20Status-Active-brightgreen)
+![AI](https://img.shields.io/badge/AI-Smart%20Engine-red)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-purple)
+![License](https://img.shields.io/badge/License-MIT-lightgray)
+
+</p>
+
+# 🚀 TaskFlow-AI — Intelligent Productivity System
+
+TaskFlow-AI is an **AI-powered productivity assistant** that goes beyond traditional to-do list apps.  
+It **learns your behavior**, organizes tasks intelligently, and helps you execute work efficiently with:
+
+- AI categorization  
+- Smart scheduling  
+- Prioritization scoring  
+- Time-awareness  
+- Mood-based productivity recommendations  
+- Smart task breakdowns  
+
+---
+
+## 🌟 Why TaskFlow-AI?
+
+Most tools store tasks — **TaskFlow-AI thinks.**
+
+It predicts **when and how** you should work based on:
+
+| Factor | Considered by System? |
+|--------|------------------------|
+| Task urgency | ✔ |
+| Difficulty level | ✔ |
+| Deadlines | ✔ |
+| Estimated effort | ✔ |
+| User mood & fatigue | ✔ |
+| Past behavior patterns | ✔ |
+
+---
+
+## 🧠 Features
+
+| Category | Function |
+|----------|----------|
+| ✨ AI Task Classification | NLP-based task understanding |
+| ⏳ Smart Scheduling | Suggests when to do tasks |
+| 🎯 Priority Score | Calculates importance + urgency |
+| 🧠 Task Breakdown | Converts big tasks → micro tasks |
+| 📝 Natural Language Input | e.g., "Submit report by Tuesday" |
+| 🔔 Notifications & Reminders | Coming soon |
+| 📦 Export / Backup Tasks | JSON or PDF format |
+
+---
+
+## 🧩 Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| Backend | Python, FastAPI |
+| AI/NLP | spaCy / Sentence-Transformers (optional) |
+| Task Ranking Model | Custom scoring algorithm + optional ML |
+| Storage | JSON / SQLite / MongoDB (configurable) |
+| Interface | CLI / Web UI (future extension) |
+
+---
+
+## 📁 Folder Structure
+
+
+
 # 🚀 HoloTask AI — Intelligent Productivity System  
 
 > AI-powered task manager with smart scheduling, automatic prioritization, and a futuristic interface designed to help you stay productive without overwhelm.
